@@ -16,7 +16,7 @@ with open(sys.argv[1], "r") as file:
 
 print params;
 
-for i in range(0,10):
+for i in range(0,11):
 	print "==============================================================="
 	print "The", i,"th execution, params:", params[i] 
 	process = subprocess.Popen(["./branch_mispred", params[i][0], params[i][1], params[i][2], params[i][3]], stdout=subprocess.PIPE);
