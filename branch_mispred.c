@@ -145,12 +145,12 @@ int main(int argc, char * argv[]) {
   // you need to substitute this part for your own branch which you want to measure.
 
   
-  for(i = 0; i < LOOP; i++) {
-if ((t3[o3[i]] & t4[o4[i]])) {
-        answer[j] = i;
-        j+= (t1[o1[i]] & t2[o2[i]]);
+for(i = 0; i < LOOP; i++) {
+if (t4[o4[i]] && t3[o3[i]] && t2[o2[i]]) {
+    answer[j] = i;
+    j+= t1[o1[i]];
 }
-  }
+}
 
   // Read the counter
   asm volatile("nop;"); // pseudo-barrier
