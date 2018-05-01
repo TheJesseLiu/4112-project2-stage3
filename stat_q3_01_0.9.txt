@@ -14,7 +14,7 @@ Instructions:         601231311
 
 IPC:                  2.658808
 
-Branch misses:        562 
+Branch misses:         
 
 Branch instructions:  200417719 
 

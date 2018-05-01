@@ -39,7 +39,6 @@ CPU Cycles:           973521655
 Instructions:         907546734 
 
 IPC:                  0.932231
-
 Branch misses:        5301741 
 
 Branch instructions:  244738861 
