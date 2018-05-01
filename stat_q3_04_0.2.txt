@@ -1,0 +1,288 @@
+The query file name: q3_query.txt
+[['0', '0', '0', '0'], ['0.1000', '0.2234', '0.0534', '0.2343'], ['0.2000', '0.2234', '0.0534', '0.2343'], ['0.3000', '0.2234', '0.0534', '0.2343'], ['0.4000', '0.2234', '0.0534', '0.2343'], ['0.5000', '0.2234', '0.0534', '0.2343'], ['0.6000', '0.2234', '0.0534', '0.2343'], ['0.7000', '0.2234', '0.0534', '0.2343'], ['0.8000', '0.2234', '0.0534', '0.2343'], ['0.9000', '0.2234', '0.0534', '0.2343'], ['1.0000', '1.0000', '1.00000', '1.0000']]
+===============================================================
+The 0 th execution, params: ['0', '0', '0', '0']
+Loop start!
+
+Loop stop!
+
+Elapsed time: 0.242588043 seconds
+
+CPU Cycles:           626316049 
+
+Instructions:         1504556202 
+
+IPC:                  2.402232
+
+Branch misses:        1385 
+
+Branch instructions:  101360738 
+
+Branch mispred. rate: 0.001366%
+
+
+
+overall selectivity = 0.000000000
+
+theoretical selectivity = 0.000000000
+
+===============================================================
+The 1 th execution, params: ['0.1000', '0.2234', '0.0534', '0.2343']
+Loop start!
+
+Loop stop!
+
+Elapsed time: 0.358509064 seconds
+
+CPU Cycles:           921285327 
+
+Instructions:         1645745591 
+
+IPC:                  1.786358
+
+Branch misses:        24476 
+
+Branch instructions:  126848148 
+
+Branch mispred. rate: 0.019296%
+
+
+
+overall selectivity = 0.000296220
+
+theoretical selectivity = 0.000279510
+
+===============================================================
+The 2 th execution, params: ['0.2000', '0.2234', '0.0534', '0.2343']
+Loop start!
+
+Loop stop!
+
+Elapsed time: 0.244633913 seconds
+
+CPU Cycles:           631002237 
+
+Instructions:         1502918759 
+
+IPC:                  2.381796
+
+Branch misses:        1210 
+
+Branch instructions:  100753099 
+
+Branch mispred. rate: 0.001201%
+
+
+
+overall selectivity = 0.000561940
+
+theoretical selectivity = 0.000559019
+
+===============================================================
+The 3 th execution, params: ['0.3000', '0.2234', '0.0534', '0.2343']
+Loop start!
+
+Loop stop!
+
+Elapsed time: 0.241333008 seconds
+
+CPU Cycles:           623079044 
+
+Instructions:         1501803615 
+
+IPC:                  2.410294
+
+Branch misses:        1129 
+
+Branch instructions:  100515080 
+
+Branch mispred. rate: 0.001123%
+
+
+
+overall selectivity = 0.000992930
+
+theoretical selectivity = 0.000838529
+
+===============================================================
+The 4 th execution, params: ['0.4000', '0.2234', '0.0534', '0.2343']
+Loop start!
+
+Loop stop!
+
+Elapsed time: 0.245674133 seconds
+
+CPU Cycles:           633478812 
+
+Instructions:         1503937752 
+
+IPC:                  2.374093
+
+Branch misses:        1288 
+
+Branch instructions:  101125219 
+
+Branch mispred. rate: 0.001274%
+
+
+
+overall selectivity = 0.000968520
+
+theoretical selectivity = 0.001118038
+
+===============================================================
+The 5 th execution, params: ['0.5000', '0.2234', '0.0534', '0.2343']
+Loop start!
+
+Loop stop!
+
+Elapsed time: 0.254191160 seconds
+
+CPU Cycles:           656364574 
+
+Instructions:         1501941441 
+
+IPC:                  2.288273
+
+Branch misses:        1185 
+
+Branch instructions:  100564788 
+
+Branch mispred. rate: 0.001178%
+
+
+
+overall selectivity = 0.001506410
+
+theoretical selectivity = 0.001397548
+
+===============================================================
+The 6 th execution, params: ['0.6000', '0.2234', '0.0534', '0.2343']
+Loop start!
+
+Loop stop!
+
+Elapsed time: 0.244530201 seconds
+
+CPU Cycles:           632186650 
+
+Instructions:         1502661685 
+
+IPC:                  2.376927
+
+Branch misses:        1312 
+
+Branch instructions:  100681560 
+
+Branch mispred. rate: 0.001303%
+
+
+
+overall selectivity = 0.001462960
+
+theoretical selectivity = 0.001677058
+
+===============================================================
+The 7 th execution, params: ['0.7000', '0.2234', '0.0534', '0.2343']
+Loop start!
+
+Loop stop!
+
+Elapsed time: 0.243582964 seconds
+
+CPU Cycles:           627391292 
+
+Instructions:         1502204796 
+
+IPC:                  2.394367
+
+Branch misses:        1234 
+
+Branch instructions:  100696141 
+
+Branch mispred. rate: 0.001225%
+
+
+
+overall selectivity = 0.002076300
+
+theoretical selectivity = 0.001956567
+
+===============================================================
+The 8 th execution, params: ['0.8000', '0.2234', '0.0534', '0.2343']
+Loop start!
+
+Loop stop!
+
+Elapsed time: 0.246358871 seconds
+
+CPU Cycles:           635394715 
+
+Instructions:         1503637751 
+
+IPC:                  2.366462
+
+Branch misses:        1848 
+
+Branch instructions:  100962164 
+
+Branch mispred. rate: 0.001830%
+
+
+
+overall selectivity = 0.001651130
+
+theoretical selectivity = 0.002236077
+
+===============================================================
+The 9 th execution, params: ['0.9000', '0.2234', '0.0534', '0.2343']
+Loop start!
+
+Loop stop!
+
+Elapsed time: 0.245143175 seconds
+
+CPU Cycles:           634268023 
+
+Instructions:         1502889440 
+
+IPC:                  2.369486
+
+Branch misses:        1355 
+
+Branch instructions:  100735023 
+
+Branch mispred. rate: 0.001345%
+
+
+
+overall selectivity = 0.002514620
+
+theoretical selectivity = 0.002515586
+
+===============================================================
+The 10 th execution, params: ['1.0000', '1.0000', '1.00000', '1.0000']
+Loop start!
+
+Loop stop!
+
+Elapsed time: 0.975228071 seconds
+
+CPU Cycles:           2511532621 
+
+Instructions:         2340534249 
+
+IPC:                  0.931915
+
+Branch misses:        407075 
+
+Branch instructions:  257819927 
+
+Branch mispred. rate: 0.157891%
+
+
+
+overall selectivity = 1.000000000
+
+theoretical selectivity = 1.000000000
+
